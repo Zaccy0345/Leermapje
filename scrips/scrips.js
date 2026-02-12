@@ -25,7 +25,7 @@ else if(stopLichtKleur == "Oranje")
 }
 else if (stopLichtKleur == "Groen")
 {
-    console.log("Je mag doorrijden!");
+    console.log("Je mag doorrijden!!!!");
 }
 
 
